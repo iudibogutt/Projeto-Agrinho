@@ -12,16 +12,17 @@
 </head>
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-imagem" src="logo alura.jpg" alt="logo da alura start">
+        <img class="cabecalho-imagem" src="logo agrinho.jpg" alt="logo do agrinho">
         <ul class="cabecalho-lista">
             <li class="cabecalho-lista-item">cemag</li>
-            <li class="cabecalho-lista-item">iudi bogut,joao stachuk</li>
+            <li class="cabecalho-lista-item">iudi bogut,joao stachuk,iago sedor,pedro bogut</li>
         </ul>
     </header>
     <section class="escola">
         <div class="escola-div-conteudo">
-            <h2 class="escola-titulo">cemag</h2>
-            <p class="escola-texto-um"></p>Colegio cemag e uma instituiçao de ensino localizada na cidade de reserva, no estado do Paraná. Ele oferece educação infantil, ensino fundamental, médio e pré-vestibular, com uma proposta pedagógica wue valorizano desenvolvimento integral dos alunos. O colégio conta com uma infraestutura moderna e bem equipada. além de uma equipe de profissionais qualificados e comprometidos com o sucesso dos estudantes.</p>
+            <h2 class="escola-titulo">agrinho</h2>
+            <p class="escola-texto-um"></p>Como parte do programa Agrinho, tive a oportunidade incrível de explorar e entender a relação vital entre a vida no campo e na cidade. Durante essa jornada, pude mergulhar nas realidades e desafios enfrentados pelos agricultores e suas famílias, testemunhando de perto o trabalho árduo e a dedicação necessária para cultivar os alimentos que chegam às nossas mesas. Através do Agrinho, percebi como as comunidades rurais desempenham um papel fundamental na nossa sociedade, fornecendo não apenas alimentos, mas também contribuindo para a preservação ambiental, a diversidade cultural e o desenvolvimento econômico. A conexão entre o campo e a cidade tornou-se mais clara para mim, e reconheço agora a importância de valorizar e apoiar os agricultores e suas práticas sustentáveil.Ao compartilhar minhas experiências do campo com aqueles na cidade, busco inspirar uma compreensão mais profunda e um maior apreço pelo trabalho árduo e pela paixão que sustentam nossa cadeia alimentar. O Agrinho não apenas educa, mas também conecta, criando uma ponte vital entre as diferentes realidades do nosso país.</p>
+    
         
         </div>
         <img class="escola-imagem" src="logocemag.jpg.PNG" alt="imagem que representa uma professora em sala de aula">
@@ -42,6 +43,16 @@
             <a href="https://github.com/joaostachuk"><img class="estudante-icone" src="logo github.jpg" alt="icone github"></a>
             <a href="https://www.instagram.com/jao.stachuk"><img class="estudante-icone" src="logo instagram.jpg" alt="icone instagram"></a>
         </div>
+        <img class="estudante-imagem" src="imagem iago.jpg" alt="foto da joao">
+        <h3 class="estudante-nome">iago</h3>
+        <a href="https://github.com/iagosedor"><img class="estudante-icone" src="logo github.jpg" alt="icone github"></a>
+        <a href="https://www.instagram.com/iago.hz7"><img class="estudante-icone" src="logo instagram.jpg" alt="icone instagram"></a>
+    </div>
+    <div class="estudante-div">
+        <img class="estudante-imagem" src="imagem pedro.jpg" alt="foto da joao">
+        <h3 class="estudante-nome">joao</h3>
+        <a href="https://github.com/pedrobogut"><img class="estudante-icone" src="logo github.jpg" alt="icone github"></a>
+        <a href="https://www.instagram.com/bogutpedro"><img class="estudante-icone" src="logo instagram.jpg" alt="icone instagram"></a>
     </div>
 </section>
 <footer class="rodape">
